@@ -11,12 +11,12 @@
                 driverClass="org.mariadb.jdbc.Driver"
                 connectionURL="jdbc:mariadb://127.0.0.1:3306/example"
                 userId="root"
-                password="mariadb"/>
+                password="hoge"/>
         <modelGenerator
-                targetPackage="com.example.demo.database"
+                targetPackage="jp.ac.it_college.std.s25003.kotlin.demo.database"
                 targetProject="src/main/kotlin"/>
         <clientGenerator
-                targetPackage="com.example.demo.database"
+                targetPackage="jp.ac.it_college.std.s25003.kotlin.demo.database"
                 targetProject="src/main/kotlin" />
         <table tableName="%" catalog="example">
             <property name="ignoreQualifiersAtRuntime" value="true"/>
