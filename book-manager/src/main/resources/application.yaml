@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: book-manager
+  datasource:
+    url: jdbc:mariadb://127.0.0.1:3316/book_manager
+    username: boot
+    password: spring
+    driver-class-name: org.mariadb.jdbc.Driver
