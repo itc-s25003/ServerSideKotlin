@@ -1,0 +1,36 @@
+{
+    "codeVersion": "0.12.0-dev-4017",
+    "inputValues": {
+        "inputDirsDestPaths": "[., ., .]",
+        "jarConfig": "{\"mainClassFqn\":\"jp.ac.it_college.std.s25003.kotlin.ktor.example.MainKt\"}",
+        "outputJarPath": "/home/s25003/IdeaProjects/ktor-sample/build/tasks/_ktor-sample_jarJvm/ktor-sample-jvm.jar"
+    },
+    "inputFiles": [
+        "/home/s25003/IdeaProjects/ktor-sample/build/artifacts/CompiledJvmArtifact/ktor-samplejvm/java-output",
+        "/home/s25003/IdeaProjects/ktor-sample/build/artifacts/CompiledJvmArtifact/ktor-samplejvm/kotlin-output",
+        "/home/s25003/IdeaProjects/ktor-sample/build/artifacts/CompiledJvmArtifact/ktor-samplejvm/resources-output"
+    ],
+    "inputFilesState": {
+        "/home/s25003/IdeaProjects/ktor-sample/build/artifacts/CompiledJvmArtifact/ktor-samplejvm/java-output": "EMPTY DIR",
+        "/home/s25003/IdeaProjects/ktor-sample/build/artifacts/CompiledJvmArtifact/ktor-samplejvm/kotlin-output/META-INF/main.kotlin_module": "size 164 mtime 2026-07-08T05:58:02.544508917Z",
+        "/home/s25003/IdeaProjects/ktor-sample/build/artifacts/CompiledJvmArtifact/ktor-samplejvm/kotlin-output/jp/ac/it_college/std/s25003/kotlin/ktor/example/MainKt.class": "size 785 mtime 2026-07-08T05:58:02.544189287Z",
+        "/home/s25003/IdeaProjects/ktor-sample/build/artifacts/CompiledJvmArtifact/ktor-samplejvm/kotlin-output/jp/ac/it_college/std/s25003/kotlin/ktor/example/RoutingKt$configureRouting$1$1.class": "size 3740 mtime 2026-07-08T05:58:02.544075294Z",
+        "/home/s25003/IdeaProjects/ktor-sample/build/artifacts/CompiledJvmArtifact/ktor-samplejvm/kotlin-output/jp/ac/it_college/std/s25003/kotlin/ktor/example/RoutingKt$configureRouting$1$2.class": "size 4388 mtime 2026-07-08T05:58:02.544122951Z",
+        "/home/s25003/IdeaProjects/ktor-sample/build/artifacts/CompiledJvmArtifact/ktor-samplejvm/kotlin-output/jp/ac/it_college/std/s25003/kotlin/ktor/example/RoutingKt$configureRouting$1$3.class": "size 4393 mtime 2026-07-08T05:58:02.544161077Z",
+        "/home/s25003/IdeaProjects/ktor-sample/build/artifacts/CompiledJvmArtifact/ktor-samplejvm/kotlin-output/jp/ac/it_college/std/s25003/kotlin/ktor/example/RoutingKt.class": "size 2520 mtime 2026-07-08T05:58:02.543927233Z",
+        "/home/s25003/IdeaProjects/ktor-sample/build/artifacts/CompiledJvmArtifact/ktor-samplejvm/kotlin-output/jp/ac/it_college/std/s25003/kotlin/ktor/example/routes/GreetingKt$greetingRoute$1$1.class": "size 3751 mtime 2026-07-08T05:58:02.544270064Z",
+        "/home/s25003/IdeaProjects/ktor-sample/build/artifacts/CompiledJvmArtifact/ktor-samplejvm/kotlin-output/jp/ac/it_college/std/s25003/kotlin/ktor/example/routes/GreetingKt$greetingRoute$1$2.class": "size 3758 mtime 2026-07-08T05:58:02.544302201Z",
+        "/home/s25003/IdeaProjects/ktor-sample/build/artifacts/CompiledJvmArtifact/ktor-samplejvm/kotlin-output/jp/ac/it_college/std/s25003/kotlin/ktor/example/routes/GreetingKt.class": "size 2207 mtime 2026-07-08T05:58:02.544231433Z",
+        "/home/s25003/IdeaProjects/ktor-sample/build/artifacts/CompiledJvmArtifact/ktor-samplejvm/resources-output/application.yaml": "size 146 mtime 2026-07-08T05:58:02.565771809Z",
+        "/home/s25003/IdeaProjects/ktor-sample/build/artifacts/CompiledJvmArtifact/ktor-samplejvm/resources-output/logback.xml": "size 425 mtime 2026-07-08T05:58:02.565771809Z"
+    },
+    "outputValues": {},
+    "outputFiles": [
+        "/home/s25003/IdeaProjects/ktor-sample/build/tasks/_ktor-sample_jarJvm/ktor-sample-jvm.jar"
+    ],
+    "outputFilesState": {
+        "/home/s25003/IdeaProjects/ktor-sample/build/tasks/_ktor-sample_jarJvm/ktor-sample-jvm.jar": "size 15711 mtime 2026-07-08T05:58:02.585740586Z mode 436 owner s25003 group s25003"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

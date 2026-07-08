@@ -1,0 +1,6 @@
+Kotlin Toolchain version 0.12.0-dev-4017 (876e3a7, 2026-06-05)
+running on Linux 7.0.0-22-generic jvm arch amd64
+
+00:04.054 INFO  :ktor-sample:compileJvm   Slf4jExtensionsKt         Compiling module 'ktor-sample' for platform 'jvm'...
+00:13.830 INFO  :ktor-sample:compileJvm   MessagesKt                Compilation successful for ktor-sample [jvm]
+00:14.535 ERROR :ktor-sample:resolveDependenciesJvm MainKt                    Task ':ktor-sample:runJvm' failed: Process exited with exit code 1

@@ -1,0 +1,37 @@
+{
+    "codeVersion": "0.12.0-dev-4017",
+    "inputValues": {},
+    "inputFiles": [],
+    "inputFilesState": {},
+    "outputValues": {},
+    "outputFiles": [
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/kotlin/kotlin-build-tools-impl/2.3.21/kotlin-build-tools-impl-2.3.21.jar",
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/kotlin/kotlin-build-tools-api/2.3.21/kotlin-build-tools-api-2.3.21.jar",
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/kotlin/kotlin-stdlib/2.3.21/kotlin-stdlib-2.3.21.jar",
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/kotlin/kotlin-build-tools-cri-impl/2.3.21/kotlin-build-tools-cri-impl-2.3.21.jar",
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/kotlin/kotlin-compiler-embeddable/2.3.21/kotlin-compiler-embeddable-2.3.21.jar",
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/kotlin/kotlin-compiler-runner/2.3.21/kotlin-compiler-runner-2.3.21.jar",
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar",
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/kotlin/kotlin-script-runtime/2.3.21/kotlin-script-runtime-2.3.21.jar",
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/kotlin/kotlin-reflect/1.6.10/kotlin-reflect-1.6.10.jar",
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/kotlin/kotlin-daemon-embeddable/2.3.21/kotlin-daemon-embeddable-2.3.21.jar",
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.8.0/kotlinx-coroutines-core-jvm-1.8.0.jar",
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/kotlin/kotlin-daemon-client/2.3.21/kotlin-daemon-client-2.3.21.jar"
+    ],
+    "outputFilesState": {
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar": "size 29371 mtime 2026-07-08T05:03:10.971746045Z mode 436 owner s25003 group s25003",
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/kotlin/kotlin-build-tools-api/2.3.21/kotlin-build-tools-api-2.3.21.jar": "size 168792 mtime 2026-07-08T05:06:45.668640557Z mode 436 owner s25003 group s25003",
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/kotlin/kotlin-build-tools-cri-impl/2.3.21/kotlin-build-tools-cri-impl-2.3.21.jar": "size 571403 mtime 2026-07-08T05:06:45.695640811Z mode 436 owner s25003 group s25003",
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/kotlin/kotlin-build-tools-impl/2.3.21/kotlin-build-tools-impl-2.3.21.jar": "size 1461208 mtime 2026-07-08T05:06:45.687640736Z mode 436 owner s25003 group s25003",
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/kotlin/kotlin-compiler-embeddable/2.3.21/kotlin-compiler-embeddable-2.3.21.jar": "size 59720376 mtime 2026-07-08T05:06:45.853642299Z mode 436 owner s25003 group s25003",
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/kotlin/kotlin-compiler-runner/2.3.21/kotlin-compiler-runner-2.3.21.jar": "size 20148 mtime 2026-07-08T05:06:45.699640849Z mode 436 owner s25003 group s25003",
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/kotlin/kotlin-daemon-client/2.3.21/kotlin-daemon-client-2.3.21.jar": "size 243178 mtime 2026-07-08T05:06:45.692640783Z mode 436 owner s25003 group s25003",
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/kotlin/kotlin-daemon-embeddable/2.3.21/kotlin-daemon-embeddable-2.3.21.jar": "size 368344 mtime 2026-07-08T05:06:45.694640802Z mode 436 owner s25003 group s25003",
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/kotlin/kotlin-reflect/1.6.10/kotlin-reflect-1.6.10.jar": "size 3038560 mtime 2026-07-08T05:06:45.917642902Z mode 436 owner s25003 group s25003",
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/kotlin/kotlin-script-runtime/2.3.21/kotlin-script-runtime-2.3.21.jar": "size 44972 mtime 2026-07-08T05:06:45.667640548Z mode 436 owner s25003 group s25003",
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/kotlin/kotlin-stdlib/2.3.21/kotlin-stdlib-2.3.21.jar": "size 1804721 mtime 2026-07-08T05:03:09.194731147Z mode 436 owner s25003 group s25003",
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.8.0/kotlinx-coroutines-core-jvm-1.8.0.jar": "size 1548360 mtime 2026-07-08T05:06:44.731631733Z mode 436 owner s25003 group s25003"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}

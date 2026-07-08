@@ -1,0 +1,15 @@
+{
+    "codeVersion": "0.12.0-dev-4017",
+    "inputValues": {},
+    "inputFiles": [],
+    "inputFilesState": {},
+    "outputValues": {},
+    "outputFiles": [
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/kotlin/kotlin-serialization-compiler-plugin-embeddable/2.3.21/kotlin-serialization-compiler-plugin-embeddable-2.3.21.jar"
+    ],
+    "outputFilesState": {
+        "/home/s25003/.cache/JetBrains/Kotlin/.m2.cache/org/jetbrains/kotlin/kotlin-serialization-compiler-plugin-embeddable/2.3.21/kotlin-serialization-compiler-plugin-embeddable-2.3.21.jar": "size 568281 mtime 2026-07-08T05:06:47.540658185Z mode 436 owner s25003 group s25003"
+    },
+    "excludedOutputFiles": [],
+    "dynamicInputs": {}
+}
